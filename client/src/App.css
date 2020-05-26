@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  border: 1px solid black;
+}
+
+.header{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  padding: 20px;
+  border: 1px solid red;
+}
+
